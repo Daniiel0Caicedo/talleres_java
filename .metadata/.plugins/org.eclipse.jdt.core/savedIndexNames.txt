@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Usuario Lenovo\Desktop\actividad de java\.metadata\.plugins\org.eclipse.jdt.core
